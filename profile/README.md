@@ -7,9 +7,9 @@ Wir entwickeln digitale Werkzeuge, die Pflegeeltern entlasten — damit mehr Ene
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-pflegeeltern.space-8b5cf6?style=for-the-badge&logo=firefox&logoColor=white)](https://pflegeeltern.space)
-[![Portal](https://img.shields.io/badge/Portal-portal.pflegeeltern.space-d946ef?style=for-the-badge&logo=laravel&logoColor=white)](https://portal.pflegeeltern.space)
-[![Kontakt](https://img.shields.io/badge/Kontakt-info@pflegeeltern.space-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pflegeeltern.space)
+[![Website](https://img.shields.io/badge/Website-8b5cf6?style=for-the-badge&logo=firefox&logoColor=white)](https://pflegeeltern.space)
+[![Portal](https://img.shields.io/badge/Portal-d946ef?style=for-the-badge&logo=laravel&logoColor=white)](https://portal.pflegeeltern.space)
+[![Kontakt](https://img.shields.io/badge/Kontakt-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pflegeeltern.space)
 
 <br>
 
