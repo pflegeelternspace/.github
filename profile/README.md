@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🏠 Pflegeeltern.space</h1>
+<h1>🏠 Pflegeeltern.Space</h1>
 
 <p><strong>Die moderne, DSGVO-konforme Plattform für Pflegefamilien in Deutschland.</strong><br>
 Wir entwickeln digitale Werkzeuge, die Pflegeeltern entlasten — damit mehr Energie für das bleibt, was wirklich zählt.</p>
@@ -28,7 +28,7 @@ Wir entwickeln digitale Werkzeuge, die Pflegeeltern entlasten — damit mehr Ene
 
 ## Über uns
 
-**Pflegeeltern.space** ist eine SaaS-Plattform, die Pflegefamilien in Deutschland bei ihrer täglichen Arbeit digital unterstützt. Wir decken den gesamten Alltag ab — von der verschlüsselten Dokumentation über Berichte für das Jugendamt bis hin zur Kommunikation mit Behörden.
+**Pflegeeltern.Space** ist eine SaaS-Plattform, die Pflegefamilien in Deutschland bei ihrer täglichen Arbeit digital unterstützt. Wir decken den gesamten Alltag ab — von der verschlüsselten Dokumentation über Berichte für das Jugendamt bis hin zur Kommunikation mit Behörden.
 
 Unser Antrieb: Pflegeeltern leisten einen gesellschaftlich unverzichtbaren Dienst. Sie verdienen Werkzeuge, die auf dem neusten Stand der Technik sind — sicher, schnell und intuitiv.
 
@@ -216,9 +216,9 @@ Was als nächstes kommt:
 
 ## 📬 Kontakt
 
-- 🌐 **Website**: [pflegeeltern.space](https://pflegeeltern.space)
+- 🌐 **Website**: [Pflegeeltern.Space](https://pflegeeltern.space)
 - 📧 **E-Mail**: [info@pflegeeltern.space](mailto:info@pflegeeltern.space)
-- 🚀 **App**: [portal.pflegeeltern.space](https://portal.pflegeeltern.space)
+- 🚀 **Portal**: [portal.pflegeeltern.space](https://portal.pflegeeltern.space)
 
 ---
 
