@@ -2,25 +2,14 @@
 
 <h1>🏠 Pflegeeltern.Space</h1>
 
-<p><strong>Die moderne, DSGVO-konforme Plattform für Pflegefamilien in Deutschland.</strong><br>
-Wir entwickeln digitale Werkzeuge, die Pflegeeltern im Alltag entlasten — damit mehr Energie für das bleibt, was wirklich zählt: die Kinder.</p>
+<p><strong>Die umfassendste digitale Plattform für Pflegefamilien in Deutschland.</strong><br>
+Wir entwickeln Werkzeuge, die Pflegeeltern im Alltag wirklich entlasten — damit mehr Energie für das bleibt, was zählt: die Kinder.</p>
 
 <br>
 
 [![Website](https://img.shields.io/badge/Website-8b5cf6?style=for-the-badge&logo=firefox&logoColor=white)](https://pflegeeltern.space)
-[![Portal](https://img.shields.io/badge/Portal-d946ef?style=for-the-badge&logo=laravel&logoColor=white)](https://portal.pflegeeltern.space)
+[![Portal](https://img.shields.io/badge/Portal-d946ef?style=for-the-badge&logo=appveyor&logoColor=white)](https://portal.pflegeeltern.space)
 [![Kontakt](https://img.shields.io/badge/Kontakt-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pflegeeltern.space)
-
-<br>
-
-![PHP](https://img.shields.io/badge/PHP%208.3-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel%2012-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript%205.9-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js%2022-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL%208-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </div>
 
@@ -28,29 +17,57 @@ Wir entwickeln digitale Werkzeuge, die Pflegeeltern im Alltag entlasten — dami
 
 ## 💡 Worum geht es?
 
-In Deutschland leben rund **75.000 Kinder und Jugendliche** in Pflegefamilien. Diese Familien leisten täglich außerordentliche Arbeit — oft unter erschwerten Bedingungen, mit viel Bürokratie, ohne ausreichende digitale Unterstützung.
+In Deutschland leben rund **75.000 Kinder und Jugendliche** in Pflegefamilien. Diese Familien leisten täglich außerordentliche Arbeit — oft unter erschwerten Bedingungen, mit viel Bürokratie und ohne ausreichende digitale Unterstützung.
 
-**Pflegeeltern.Space** schließt diese Lücke. Wir haben eine Plattform gebaut, die den gesamten Alltag einer Pflegefamilie digital abbildet: von der sicheren Dokumentation sensibler Gesundheitsdaten über die Kommunikation mit Jugendämtern bis hin zur Vernetzung mit anderen Pflegefamilien.
+**Pflegeeltern.Space** schließt diese Lücke. Wir haben eine Plattform aufgebaut, die den gesamten Alltag einer Pflegefamilie digital abdeckt: von der sicheren Dokumentation sensibler Gesundheitsdaten über KI-gestützte Sprachassistenz bis hin zur Kommunikation mit Jugendämtern, Trägern und anderen Pflegefamilien.
 
-Unser Ziel ist nicht nur eine App — wir bauen eine Infrastruktur, die das gesamte System rund um Pflegefamilien digitalisiert: Pflegeeltern, Pflegekinder, Jugendämter, Träger und Fachkräfte.
+Unser Ziel ist nicht nur eine App — wir bauen eine Infrastruktur, die das gesamte System rund um Pflegefamilien digitalisiert: Pflegeeltern, Pflegekinder, Jugendämter, freie Träger und Fachkräfte.
 
 > *„Pflegekinder verdienen die bestmögliche Fürsorge. Wir sorgen dafür, dass Pflegeeltern die Energie dafür haben — und nicht für Bürokratie."*
 
 ---
 
-## ✨ Was wir heute anbieten
+## ✨ Unsere Features im Überblick
 
-### 👶 Digitale Pflegekind-Akte
-Das Herzstück der Plattform: eine vollständige, verschlüsselte digitale Akte für jedes Pflegekind.
+### 🎙️ Telefon-Assistent — Dokumentation per Sprache
+Eines unserer innovativsten Features: Pflegeeltern können Ereignisse einfach **per Anruf dokumentieren** — ohne tippen, ohne Formulare.
+
+- KI wandelt gesprochene Sprache automatisch in strukturierte Dokumentation um
+- Mehrstufiges Gesprächssystem mit über 15 verschiedenen Zuständen
+- **Notfallerkennung**: Das System erkennt automatisch Krisensituationen im Gespräch
+- Sprachbasierte Identitätsverifikation
+- Vorlesung zur Überprüfung und Korrektur — per Sprache bestätigen oder korrigieren
+- Vollständiges Gesprächsprotokoll mit Zeitstempeln und Metadaten
+- Verschlüsselte Audioaufzeichnung und -speicherung
+- Individuelle Einstellungen und Berechtigungen pro Nutzer
+
+### 🤖 Künstliche Intelligenz — überall integriert
+KI ist kein Add-on bei uns — sie ist in die gesamte Plattform eingebaut.
+
+- **Multi-Provider-Architektur**: Unterstützt mehrere führende KI-Anbieter gleichzeitig
+- **Dokumentationsanalyse**: Intelligente Auswertung und Zusammenfassungen
+- **Checklisten-Assistent**: KI erstellt Checklisten auf Basis des Kontexts
+- **E-Mail-Analyse**: Automatische Fristenerkennung, Rechtsprüfung und Kategorisierung
+- **Kontaktsuche**: KI-gestützte Websuche zum Finden von Ansprechpartnern in Behörden
+- **Berichtsassistent**: Formulierungshilfe für professionelle Berichte
+- **Social-Media-Generator**: Automatische Erstellung von Beiträgen aus Inhalten
+- **Content-Ideen**: Redaktionelle Vorschläge für Träger und Organisationen
+- **Frühwarnsystem**: KI erkennt besorgniserregende Muster in der Dokumentation
+- Nutzungsquoten und Kostenverfolgung pro Nutzer
+
+### 👶 Digitale Pflegekind-Akte — vollständig & verschlüsselt
+Die umfassendste digitale Akte für Pflegekinder — alles an einem Ort, sicher verschlüsselt.
 
 - Stammdaten, Fotos, Kontaktpersonen und persönliche Informationen
-- **Gesundheitsakte**: Arztbesuche, Diagnosen (ICD-10), Medikamentenpläne, Impfungen, Therapien, Krankenhausaufenthalte
-- **Notfallkarte**: Blutgruppe, Allergien, Hilfsmittel, Notfallkontakte — offline abrufbar
+- Familiengeschichte und Herkunftsinformationen strukturiert erfassen
+- **Gesundheitsakte**: Arztbesuche, Diagnosen (ICD-10), Medikamentenpläne, Impfungen, Therapien
+- **Notfallkarte**: Blutgruppe, Allergien, Hilfsmittel, Notfallkontakte
+- Krisenplan mit Deeskalationsstrategien und medizinischen Hinweisen
 - Entwicklungsmeilensteine und individueller Förderbedarf
 - Schwerbehinderungsausweis (GdB, Merkzeichen, Widerspruchsverwaltung)
 - Schweigepflichtentbindungen digital erstellen und verwalten
-- Familiengeschichte und Herkunftsinformationen strukturiert erfassen
-- Krisenplan mit Deeskalationsstrategien und medizinischen Hinweisen
+- Bildungsdaten: Schule, Noten, Förderbedarf, Bildungs- und Teilhabeleistungen
+- Schnellerfassung für besonders eilige Momente
 
 ### 📋 Dokumentation & Tagesprotokolle
 Rechtssichere Dokumentation, die keine Zeit kostet.
@@ -60,143 +77,158 @@ Rechtssichere Dokumentation, die keine Zeit kostet.
 - KI-gestützte Zusammenfassungen für schnelle Übersicht
 - Volltextsuche über alle Einträge
 - Kategorisierung nach Themen (Schule, Gesundheit, Verhalten, Freizeit, ...)
+- Verknüpfung mit Pflegekind, Terminen und Dokumenten
 
 ### 📝 Berichte für Jugendamt & Familiengericht
-Professionelle Berichte auf Knopfdruck.
+Professionelle Berichte auf Knopfdruck — rechtssicher und vollständig.
 
 - Strukturierte Berichtsvorlagen für alle gängigen Anlässe
 - Automatischer PDF-Export mit Briefkopf und professionellem Layout
 - Word-Dokument-Export (DOCX) für weitere Bearbeitung
-- Versionshistorie und Freigabe-Workflow
 - KI-gestützte Formulierungshilfe
+- Versionshistorie und Freigabe-Workflow
+- Automatische Datenaggregation aus Dokumentation und Protokollen
 
-### ✉️ Antragsassistent — Behördenkommunikation leicht gemacht
-Schluss mit dem Papierchaos bei Ämtern und Behörden.
+### ✉️ Antragsassistent — Behördenkommunikation digital
+Schluss mit dem Papierchaos. Der Antragsassistent führt Schritt für Schritt durch jeden Antrag.
 
 - Schritt-für-Schritt-Assistent für alle gängigen Antragsarten
-- Regelwerk-basierte, automatische Textgenerierung
-- **Fax-Versand** direkt aus dem Portal (kein Faxgerät nötig)
+- Regelwerk-basierte, automatische Textgenerierung aus gesetzlichen Grundlagen
+- **Physischer Briefversand** direkt aus dem Portal (Pingen, LetterXpress, OnlineBrief24)
+- **Fax-Versand** direkt aus dem Portal — kein Faxgerät nötig
 - Empfänger- und Adressdatenbank für Jugendämter, Schulen, Ärzte
+- Intelligentes Routing zum richtigen Ansprechpartner
 - Vollständiger Versandstatus und Verlaufsspeicherung
 - Automatische Wiedervorlage und Fristen-Tracking
-- Unterstützt AntragCase, Shipments und mehrstufige Genehmigungsprozesse
+- Dokumentenversionen und Änderungshistorie
+
+### 📧 Integrierter E-Mail-Client
+Ein vollständiger E-Mail-Client direkt im Portal — alles an einem Ort.
+
+- IMAP/SMTP-Integration für bestehende E-Mail-Konten
+- Eigene E-Mail-Aliase mit professionellen Adressen
+- Intelligente Ordner, Regeln und automatische Kategorisierung
+- **KI-gestützte Fristenerkennung** aus E-Mail-Inhalten
+- **Rechtsprüfung**: KI analysiert eingehende E-Mails auf rechtliche Relevanz
+- E-Mail-Tracking: Öffnungs- und Klick-Analytik
+- Anhänge lesen und auswerten (KI-gestützte PDF-Analyse)
+- E-Mail-Vorlagen für häufige Antworten
+- Quarantäne für verdächtige Nachrichten
+- Vollständiges Sicherheits- und Audit-Log
+
+### 🧠 Smarte Hinweise & Frühwarnsystem
+Die Plattform denkt proaktiv mit — und gibt rechtzeitig Hinweise.
+
+- **Frühwarnsystem**: Erkennt automatisch besorgniserregende Muster in der Dokumentation
+- **U-Untersuchungs-Hinweise**: Erinnert rechtzeitig an Vorsorgeuntersuchungen
+- **Kindergeld-Hinweise**: Informiert über mögliche Ansprüche und Fristen
+- **Pflegegeld-Stufen-Hinweise**: Empfehlungen zur Überprüfung des Pflegegrads
+- **Bildung & Teilhabe**: Hinweise auf verfügbare Förderleistungen
+- **Volljährigkeits-Hinweise**: Unterstützung beim Übergang ins Erwachsenenleben
+- **Beihilfen-Alerts**: Automatische Hinweise auf spezifische Beihilfen und Förderungen
+- **FASD-Erklärungen**: Edukative Informationen zu Fetalen Alkoholspektrumstörungen
+- **Hilfeplan-Hinweise**: Empfehlungen zur Unterstützungsplanung
+- **Kontextuelle Smart Hints**: Situationsabhängige Tipps im gesamten Portal
 
 ### 📅 Termine, Kalender & Besuchsprotokolle
-Kein Termin mehr vergessen, keine Dokumentationslücke mehr.
+Kein Termin mehr vergessen — lückenlose Dokumentation von Umgangskontakten.
 
 - Terminverwaltung mit Kategorien, Prioritäten und Erinnerungen
-- **iCal-Export** für Google Calendar, Apple Calendar und Outlook
-- **Zoom-Integration** für Video-Termine direkt aus dem Portal
-- Besuchsprotokolle für Umgangskontakte: Verlauf, Kindsverhalten vor/während/nach dem Besuch, Besonderheiten, Empfehlungen
+- Wiederkehrende Terminsserien
+- iCal-Export für Google Calendar, Apple Calendar und Outlook
+- Zoom-Integration für Video-Termine direkt aus dem Portal
+- **Besuchsprotokolle**: Verlauf, Kindsverhalten vor/während/nach dem Besuch, Besonderheiten, Empfehlungen
 - Automatische Benachrichtigungen per E-Mail
 
-### 🏥 Vollständige Gesundheitsverwaltung
-Alle medizinischen Informationen sicher an einem Ort.
-
-- Arztbesuche mit Diagnose, Behandlung, Medikamenten und Nachsorge
-- Medikamentenpläne mit Dosierung, Grund, Nebenwirkungen und Erinnerungen
-- Impfpass digital — alle Impfungen mit Datum, Charge und Nebenwirkungen
-- Therapie-Verwaltung: Ziele, Fortschritte, Therapeutenkontakte
-- ICD-10 Diagnosen vollständig integriert
-- Schnittstelle zu Arzt- und Therapieberichten
-
 ### 🤝 Mentoring-Netzwerk
-Erfahrene Pflegeeltern begleiten neue Familien.
+Erfahrene Pflegeeltern begleiten neue Familien — strukturiert und nachverfolgbar.
 
 - Mentoring-Profile mit Erfahrungsschwerpunkten und Qualifikationen
 - Intelligentes Matching-System zwischen Mentoren und Mentees
 - Verschlüsselte Direkt-Nachrichten und Gruppen-Chats
+- Mentoring-Kalender mit Terminplanung
+- Dokumenten- und Ressourcenteilung
 - Bewertungssystem zur Qualitätssicherung
 - Mentoring-Gruppen für regionale und thematische Vernetzung
-- Partner-Angebote und Empfehlungsprogramm für aktive Mitglieder
+- Belohnungssystem: Punkte, Voucher und Partner-Angebote für aktive Mentoren
+- Zertifikate für abgeschlossene Mentoring-Programme
 
-### 👥 Community & Vorlagen
-Gemeinsam wissen wir mehr.
+### 👥 Family Connect — Die Community für Pflegefamilien
+Eine vollständige Social-Media-Plattform — nur für Pflegefamilien, sicher und moderiert.
 
-- Geteilte Dokument-Vorlagen für häufige Situationen
-- **Showcase**: Pflegefamilien teilen Erfolgsgeschichten und Best Practices
-- Kommentare, Likes und strukturierte Diskussionen
-- Kuratierte Inhalte durch geprüfte Moderatoren
-- Community-Bewertungen für Vorlagen und Beiträge
+- Persönliche Profile mit konfigurierbaren Sichtbarkeitseinstellungen
+- Activity-Feed mit Beiträgen, Kommentaren und Reaktionen
+- **Direktnachrichten** und verschlüsselte Gruppen-Chats
+- Gruppen zu Themen, Regionen und Interessensgebieten
+- Events mit Anmeldung und Teilnehmerliste
+- Foto-Galerie für Events und Gruppen
+- **Matching-System**: Findet Familien mit ähnlichen Erfahrungen und Interessen
+- Gespeicherte Suchalerts: Benachrichtigung bei neuen passenden Familien
+- Kontaktanfragen mit Datenschutz-Kontrolle
+- Nutzer blockieren / melden
+- Anonyme Fragen & Antworten in der Community
+- Vollständige Inhaltsmoderation
+- Datenschutzkonforme Datenexport-Funktion (DSGVO)
 
 ### ✅ Checklisten & Selbstfürsorge
 Struktur für den Alltag — und Fürsorge für die Pflegeeltern selbst.
 
 - Individuelle und geteilte Checklisten für alle Lebenslagen
+- KI-gestützter Checklisten-Assistent
 - Community-Vorlagen für wiederkehrende Aufgaben
-- **Selbstfürsorge-Check-ins**: regelmäßige Reflexion des eigenen Wohlbefindens
+- **Selbstfürsorge-Check-ins**: Regelmäßige Reflexion des eigenen Wohlbefindens
 - Wohlbefindens-Tracking über Zeit
-- Verknüpfung mit Mentoring für gezielte Unterstützung
+
+### 🎓 Coaching, Events & Weiterbildung
+Wissen und Weiterentwicklung direkt auf der Plattform.
+
+- Strukturierte Coaching-Programme mit Lernmodulen
+- Events und Schulungen mit Anmeldung und Zahlungsabwicklung
+- **Zoom-Integration** für Webinare direkt in der Plattform
+- Automatische Zertifikatsgenerierung und -download
+- Veranstaltungserinnerungen per E-Mail
+- Kursbewertungen und Teilnehmerfeedback
+- Quiz-System für Wissensüberprüfung
 
 ### 🏢 Organisationen & freie Träger (B2B)
 Für Pflegeorganisationen, freie Träger und Jugendämter.
 
 - Mandantenfähige Organisationsverwaltung
-- B2B-Subscriptions mit flexiblen Abrechnungsmodellen
+- Verifizierungssystem für Organisationen (Vertrauensstatus)
+- B2B-Subscriptions mit flexiblen Abrechnungsmodellen und Add-ons
 - Mitglieder-Verwaltung mit feingranularen Rollen und Berechtigungen
-- **Zoom OAuth-Integration** für Organisations-weite Video-Termine
-- White-Label-Option für eigene Markenauftritte
+- Zoom OAuth-Integration für organisationsweite Video-Termine
+- Bewertungen und Testimonials für Organisationsprofile
+- Dokumentenablage und -freigabe
+- Auszahlungsmanagement für Coaches und Dienstleister
+- Jahresabrechnung und Rechnungsstellung
 - Statistiken und Reporting für Träger
+- White-Label-Option für eigene Markenauftritte
 
-### 🔍 Suche, Kontakte & E-Mail
-Alles sofort finden — alles an einem Ort.
+### 🛍️ Marktplatz & Dienstleister
+Vermittlung von Unterstützungsangeboten für Pflegefamilien.
 
-- Globale, verschlüsselungsbewusste Volltextsuche über alle Inhalte
-- Kontaktverwaltung mit vollständigem Kommunikationsprotokoll
-- **Integrierter E-Mail-Client** (IMAP/SMTP) direkt im Portal
-- Alias-Verwaltung für professionelle E-Mail-Adressen
-- PDF-Anhänge lesen und auswerten (KI-gestützte PDF-Analyse)
+- Marktplatz für Dienstleistungen rund ums Pflegewesen
+- Verhinderungspflege-Angebote: Vertretungspflege vermitteln und finden
+- Dienstleister-Profile mit Bewertungen und Kontaktmöglichkeit
+- Angebotsübersicht für Coaching, Schulungen und Beratung
 
----
+### 🔐 Anmeldung & Sicherheit
+Modernste Authentifizierung — sicher und komfortabel.
 
-## 🛠️ Tech-Stack
+- **Passkey-Unterstützung** (WebAuthn/FIDO2) — passwortloses Anmelden
+- Klassische E-Mail/Passwort-Anmeldung mit Brute-Force-Schutz
+- Familienmitglieder einladen und gemeinsam nutzen
+- Feingranulare Datenzugangssteuerung im Haushalt
 
-Wir setzen auf moderne, bewährte Technologien — kein Legacy-Code, kein technischer Kompromiss.
+### 📱 Mobile App (in Entwicklung)
+Die vollständige API für eine native App ist bereits vorhanden.
 
-### Backend (Portal)
-| Technologie | Version | Einsatz |
-|---|---|---|
-| **PHP** | 8.3 | Laufzeitumgebung |
-| **Laravel** | 12 | Backend-Framework (aktuellste Version) |
-| **Inertia.js** | 2 | SPA-Bridge zwischen Backend und Frontend |
-| **MySQL** | 8 | Primäre Datenbank |
-| **Laravel Sanctum** | 4.3 | API-Authentifizierung & Session-Management |
-| **Laravel Queues** | — | Asynchrone Jobs, Mails, Hintergrundprozesse |
-| **Laravel Policies** | — | Feingranulare Zugriffskontrolle auf alle Modelle |
-| **Webklex IMAP** | 6.2 | Integrierter E-Mail-Client |
-| **Smalot PDF Parser** | 2.12 | KI-gestützte PDF-Analyse |
-| **PHPWord** | 1.4 | Word-Dokument-Export (DOCX) |
-| **DomPDF / Spatie PDF** | — | Professionelle PDF-Generierung |
-
-### Frontend (Portal)
-| Technologie | Version | Einsatz |
-|---|---|---|
-| **React** | 19 | UI-Framework (aktuellste Version) |
-| **TypeScript** | 5.9 | Vollständige Typsicherheit |
-| **Tailwind CSS** | v4 | Modernes Utility-First Styling |
-| **Vite** | — | Blitzschnelles Build-Tool |
-| **Ziggy** | 2.6 | Laravel-Routen typsicher im Frontend |
-
-### Marketing-Website (pflegeeltern.space)
-| Technologie | Version | Einsatz |
-|---|---|---|
-| **Next.js** | 16 | SSR/SSG für maximale Performance & SEO |
-| **Node.js** | 22 LTS | Laufzeitumgebung |
-| **React** | 19 | UI-Framework |
-| **TypeScript** | 5.9 | Typsicherheit |
-| **Tailwind CSS** | v4 | Styling |
-
-### Infrastruktur & DevOps
-| Komponente | Technologie |
-|---|---|
-| **Server** | Hetzner VPS (Deutschland, DSGVO-konform) |
-| **Web-Server** | Nginx (Reverse Proxy + Static Files) |
-| **PHP** | PHP-FPM (optimiert für hohe Last) |
-| **Prozess-Manager** | Supervisor (Queue-Worker, Cronjobs) |
-| **SSL** | Let's Encrypt (automatische Erneuerung) |
-| **Versionskontrolle** | Git + GitHub |
-| **Deployment** | Eigenes internes CI/CD-System (Dev → Production) |
-| **Umgebungen** | Local · Dev (`dev.pflegeeltern.space`) · Production |
+- Alle Kernfunktionen über eine vollständige REST-API zugänglich
+- Separate Mobile-Authentifizierung
+- Push-Benachrichtigungen (Gerätetoken-Verwaltung bereits integriert)
+- Notfallkarte offline verfügbar
+- Geplant: iOS & Android App (React Native)
 
 ---
 
@@ -206,54 +238,38 @@ Wir verarbeiten **besondere Kategorien personenbezogener Daten** gem. **Art. 9 D
 
 Sicherheit ist bei uns keine nachträgliche Ergänzung — sie ist von Anfang an in jede Zeile Code eingebaut.
 
-### 🔐 Datenverschlüsselung
-- **AES-256-Verschlüsselung** aller sensiblen Datenbankfelder — Diagnosen, Medikamente, Notizen, Nachrichten, Kommunikation, Dokumentation und vieles mehr
-- Über **80 verschlüsselte Felder** in **28 Tabellen**
-- **Regelmäßige APP\_KEY-Rotation** mit vollautomatischer Re-Encryption aller betroffenen Felder ohne Datenverlust
-- Erkennung und Überspringen bereits verschlüsselter Werte (idempotente Migrations)
-
-### 🛡️ Zugriffskontrolle & Architektur
-- **IDOR-Schutz** (Insecure Direct Object Reference): konsequente Ownership-Validierung bei jedem einzelnen Datenbankzugriff
-- **Familienmitglieder-Sharing** mit exakter Berechtigungssteuerung — kein User sieht Daten anderer Familien
-- **Laravel Policies** für alle 170+ Modelle — kein Datenzugriff ohne explizite Freigabe
-- Kein `$request->all()` — minimale Datenexposition durch immer explizite Validierung
-- `user_id` nie in `$fillable` — Ownership immer explizit im Controller gesetzt
-
-### 🚦 Rate-Limiting & API-Schutz
-- Differenziertes Rate-Limiting: API (60/min), KI-Endpunkte (10/min), Auth (5/min), Uploads (20/min), öffentliche API (120/min)
-- Webhook-Signaturprüfung für alle externen Dienste
-- SVG-Upload-Verbot (Stored XSS Schutz)
-
-### 📋 DSGVO-Compliance
-- **Art. 17** — vollständige und nachweisbare Datenlöschung auf Anfrage (AccountDeletionService)
-- **Audit-Log** für alle sicherheitsrelevanten Aktionen (erstellt, geändert, gelöscht)
-- **DSGVO-Betroffenenanfragen** direkt im System erfassbar und verwaltbar
-- Serverstandort Deutschland (Hetzner) — keine Drittlandübermittlung
+- 🔐 **AES-256-Verschlüsselung** aller sensiblen Datenbankfelder — über **80 verschlüsselte Felder** in **28 Tabellen**
+- 🔑 **Regelmäßige Schlüssel-Rotation** mit vollautomatischer Re-Verschlüsselung aller Daten
+- 🛡️ **IDOR-Schutz** — konsequente Eigentümerprüfung bei jedem einzelnen Datenzugriff
+- 👨‍👩‍👧 **Familienmitglieder-Sharing** mit exakter Berechtigungssteuerung
+- 🚦 **Rate-Limiting** auf allen Endpunkten
+- 📋 **DSGVO Art. 15** — vollständige Auskunft auf Anfrage
+- 📋 **DSGVO Art. 17** — vollständige und nachweisbare Datenlöschung auf Anfrage
+- 📋 **DSGVO Art. 18** — Einschränkung der Verarbeitung
+- 📝 **Audit-Log** für alle sicherheitsrelevanten Aktionen
+- 🌍 **Serverstandort Deutschland** (Hetzner) — keine Drittlandübermittlung
+- 🔒 **SSL/TLS** mit automatischer Erneuerung
 
 ---
 
 ## 🗺️ Roadmap — Was als nächstes kommt
 
-Wir bauen kontinuierlich weiter. Das sind die nächsten geplanten Features:
-
 ### Kurzfristig
-- [ ] **PWA & Offline-Modus** — Notfallkarte und wichtige Infos auch ohne Internet abrufbar
-- [ ] **Push-Benachrichtigungen** — für Termine, Medikamente und wichtige Ereignisse
+- [ ] **PWA & Offline-Modus** — Notfallkarte auch ohne Internet verfügbar
+- [ ] **Push-Benachrichtigungen** — für Termine, Medikamente und Ereignisse
 - [ ] **Medikamenten-Erinnerungen** — niemals mehr eine Dosis vergessen
 - [ ] **Weekly Digest** — automatische Wochenzusammenfassung per E-Mail
 
 ### Mittelfristig
-- [ ] **Mobile App** — React Native für iOS & Android (API bereits vollständig vorhanden)
+- [ ] **Native Mobile App** — iOS & Android (API bereits vollständig vorhanden)
 - [ ] **Bidirektionale Kalender-Sync** — Google Calendar, Outlook & Apple Calendar
-- [ ] **Hilfeplan-Modul** — Digitale Hilfepläne gem. § 36 SGB VIII mit Zielen und Maßnahmen
 - [ ] **Ausgaben-Tracking** — Einnahmen & Ausgaben gem. § 39 Abs. 4 SGB VIII
-- [ ] **Digitale Unterschrift** — Dokumente rechtssicher elektronisch unterschreiben
+- [ ] **Digitale Unterschrift** — Dokumente elektronisch unterzeichnen
 
 ### Langfristig
 - [ ] **Jugendamt-Schnittstelle** — direkte digitale Kommunikation mit Behörden
-- [ ] **KI-Assistent** — intelligente Auswertung von Entwicklungsverläufen und Berichten
+- [ ] **Europäische Expansion** — Österreich & Schweiz
 - [ ] **Krisendienst-Integration** — direkte Anbindung an Notfalldienste
-- [ ] **Europäische Expansion** — Österreich & Schweiz (Infrastruktur bereits mehrsprachig ausgelegt)
 - [ ] **Open-Source-Komponenten** — ausgewählte Module für die Community freigeben
 
 ---
@@ -262,71 +278,58 @@ Wir bauen kontinuierlich weiter. Das sind die nächsten geplanten Features:
 
 | Kennzahl | Wert |
 |---|---|
-| 🗄️ Datenbank-Modelle | 170+ |
+| 🗄️ Datenbank-Modelle | 235+ |
 | 🔀 Migrations | 220+ |
 | 🧪 Automatisierte Tests | 1.800+ |
 | 📦 Verschlüsselte Felder | 80+ in 28 Tabellen |
-| ⚙️ Services | 97 |
-| 🌐 Umgebungen | 3 (Local, Dev, Production) |
+| ⚙️ Services | 100+ |
+| 🤖 KI-Anbieter | 5 (parallel nutzbar) |
+| 💌 Brief-Dienstleister | 4 (Pingen, LetterXpress, OnlineBrief24, Fax) |
+| 💳 Zahlungsanbieter | Stripe & PayPal |
+| 🌐 Umgebungen | 3 (Local · Dev · Production) |
 | 🔒 DSGVO-Stufe | Art. 9 (höchste Kategorie) |
 
 ---
 
 ## 👋 Wir suchen Mitstreiter!
 
-**Pflegeeltern.Space** wächst — und wir suchen Menschen, die mit uns gemeinsam etwas Sinnvolles aufbauen wollen. Ob als ehrenamtlicher Mitentwickler, Freelancer oder Teilzeitkraft: Meld dich!
+**Pflegeeltern.Space** wächst — und wir suchen Menschen, die gemeinsam etwas Sinnvolles aufbauen wollen. Ob ehrenamtlich, als Freelancer oder in Teilzeit: Du bist willkommen!
 
 ### 💻 Entwicklung
 
-**Frontend-Entwickler (React / TypeScript)**
-- React 19, TypeScript, Tailwind CSS v4, Inertia.js
-- Begeisterung für saubere UI und gute UX
-- Kenntnisse in Barrierefreiheit (WCAG) ein Plus
+**Frontend-Entwickler**
+Wir arbeiten mit modernsten Web-Technologien. Wenn du Freude an sauberer UI, guter UX und barrierefreiem Code hast, bist du bei uns richtig. Kenntnisse in React, TypeScript und modernem CSS sind von Vorteil.
 
-**Backend-Entwickler (PHP / Laravel)**
-- Laravel 12, PHP 8.3, MySQL
-- Erfahrung mit DSGVO-konformer Datenhaltung wünschenswert
-- Freude an sauberem, testgetriebenem Code
+**Backend-Entwickler**
+Unser Backend ist komplex, gut strukturiert und wächst kontinuierlich. Erfahrung mit PHP-Frameworks, Datenbankoptimierung und datenschutzkonformer Entwicklung ist ideal.
 
-**Mobile-Entwickler (React Native)**
-- Wir planen eine native App für iOS & Android
-- Grundlage: bestehende REST-API vollständig vorhanden
-- Ideal für React-Entwickler, die in Mobile-Entwicklung einsteigen möchten
+**Mobile-Entwickler**
+Wir planen eine native App für iOS & Android. Die gesamte API ist bereits vorhanden — du bringst die App zum Leben. React Native Kenntnisse sind ideal, Quereinsteiger aus Web willkommen.
 
 **DevOps / Infrastructure**
-- Nginx, PHP-FPM, Supervisor, Linux (Debian/Ubuntu)
-- CI/CD-Pipelines, automatisierte Deployments
-- Erfahrung mit Hetzner oder ähnlichen Cloud-Anbietern
+Automatisierte Deployments, Server-Monitoring, Performance-Optimierung. Wenn du gerne an der Basis arbeitest und Dinge reibungslos laufen lässt, suchen wir dich.
 
 ### 📣 Community & Marketing
 
 **Social Media Manager**
-- Aufbau und Betreuung unserer Präsenz auf Instagram, Facebook, TikTok und LinkedIn
-- Zielgruppe: Pflegeeltern, Fachkräfte, Träger
-- Kenntnisse im Bereich Familienthemen oder Sozialwesen ein Plus
+Aufbau und Betreuung unserer Präsenz auf Instagram, Facebook, TikTok und LinkedIn. Unsere Zielgruppe sind Pflegeeltern, Fachkräfte und Träger — Einfühlungsvermögen für soziale Themen ist wichtiger als Reichweite.
 
 **Content Creator / Texter**
-- Blog-Artikel, Newsletter, Hilfetexte, Produktbeschreibungen
-- Themen: Digitalisierung im Pflegewesen, DSGVO, Familienrecht
-- Einfühlungsvermögen für die Zielgruppe (Pflegefamilien)
+Blog-Artikel, Newsletter, Hilfetexte und Produktbeschreibungen. Themen: Digitalisierung im Pflegewesen, Familienrecht, DSGVO, Alltag von Pflegefamilien.
 
 **Community Manager**
-- Betreuung und Moderation unserer wachsenden Nutzer-Community
-- Feedback sammeln, Verbesserungen einbringen
-- Brückenbauer zwischen Nutzern und Entwicklungsteam
+Betreuung und Moderation unserer wachsenden Community. Du bist die Brücke zwischen Nutzern und Entwicklungsteam — sammelst Feedback, trägst Ideen ein und sorgst für ein gutes Miteinander.
 
 ### 🎨 Design
 
 **UI/UX Designer**
-- Figma, Design Systeme, Barrierefreiheit
-- Erfahrung mit komplexen Web-Applikationen
-- Verständnis für datensensible Umgebungen
+Design-Systeme, Barrierefreiheit, komplexe Web-Applikationen. Wenn du Freude daran hast, schwierige Sachverhalte visuell verständlich zu machen, bist du genau richtig.
 
 ---
 
 ## 📬 Kontakt & Mitmachen
 
-Interesse? Fragen? Ideen? Wir freuen uns über jede Nachricht.
+Interesse? Fragen? Ideen? Wir freuen uns über jede Nachricht — egal ob du Entwickler, Designer, Content Creator oder einfach neugierig bist.
 
 - 🌐 **Website**: [Pflegeeltern.Space](https://pflegeeltern.space)
 - 📧 **E-Mail**: [info@pflegeeltern.space](mailto:info@pflegeeltern.space)
