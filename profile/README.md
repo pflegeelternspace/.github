@@ -17,7 +17,9 @@ Wir entwickeln Werkzeuge, die Pflegeeltern im Alltag wirklich entlasten — dami
 
 ## 💡 Worum geht es?
 
-In Deutschland leben rund **75.000 Kinder und Jugendliche** in Pflegefamilien. Diese Familien leisten täglich außerordentliche Arbeit — oft unter erschwerten Bedingungen, mit viel Bürokratie und ohne ausreichende digitale Unterstützung.
+In Deutschland wuchsen **2023 rund 215.000 Kinder und Jugendliche** außerhalb ihrer eigenen Familie auf — davon ca. **87.000 in Pflegefamilien** und rund 128.000 in Heimen (Quelle: Statistisches Bundesamt, Nov. 2024). Die Zahl steigt erstmals seit 2017 wieder an. Ein Kind bleibt im Schnitt **4,2 Jahre** in einer Pflegefamilie — fast drei Mal so lang wie in einem Heim.
+
+Diese Familien leisten täglich außerordentliche Arbeit — oft unter erschwerten Bedingungen, mit viel Bürokratie und ohne ausreichende digitale Unterstützung.
 
 **Pflegeeltern.Space** schließt diese Lücke. Wir haben eine Plattform aufgebaut, die den gesamten Alltag einer Pflegefamilie digital abdeckt: von der sicheren Dokumentation sensibler Gesundheitsdaten über KI-gestützte Sprachassistenz bis hin zur Kommunikation mit Jugendämtern, Trägern und anderen Pflegefamilien.
 
